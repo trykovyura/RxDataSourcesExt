@@ -39,6 +39,6 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-   s.dependency 'RxDataSources',  '~> 3.0'
-   s.dependency 'RxSwift',  '~> 4.2'
+   s.dependency 'RxDataSources',  '~> 4'
+   s.dependency 'RxSwift',  '~> 5'
 end
